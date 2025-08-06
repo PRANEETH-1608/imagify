@@ -1,0 +1,24 @@
+# Environment variables
+*.env
+server/.env
+client/.env
+
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build files
+dist/
+dist-ssr/
+*.local
+
+# Logs
+*.log
+yarn-debug.log*
+npm-debug.log*
+
+# IDE/editor files
+.vscode/
+.idea/
+.DS_Store
